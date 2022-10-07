@@ -1,6 +1,6 @@
 # songs-from-file-2-yt-music
 
-## not 100% working (api can't find some tracks)
+## not 100% working (api can't find some tracks or YouTube can block the addition of a large number of tracks)
 
 ### steps:
 1. every track should be on new line

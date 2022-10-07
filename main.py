@@ -16,4 +16,5 @@ with open(FILENAME) as f:
             id = search_results[1]['videoId']
             ytmusic.add_playlist_items(PLAYLIST_ID, [id])
         finally:
+            print(line[0:-1])
             continue
